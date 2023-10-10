@@ -9,9 +9,9 @@ My arch repo for my stuff
 2. paste this at the end of ``/etc/pacman.conf``
 ```
 [pizuhh-repo]
-#Old
-#Server = https://raw.githubusercontent.com/pizzuhh/pizuhh-repo/main/$arch/
-#New
+# Old
+# Server = https://raw.githubusercontent.com/pizzuhh/pizuhh-repo/main/$arch/
+# New
 Server = https://repo.pizzuhh.dev/pizuhh-repo/x86_64/
 SigLevel = Optional TrustAll
 ```
